@@ -1,0 +1,55 @@
+.btn-primary {
+	background-color: transparent;
+	border-color: #F5F8FA;
+	border-radius: 0;
+	color: #F5F8FA;
+	transition: all 0.25s ease-in-out;
+}
+
+.btn-primary:hover {
+	background-color: #5C6770;
+	border-color: #F5F8FA;
+	border-radius: 0;
+}
+
+.de-footer {
+	background-color: #292F33;
+	bottom: 0;
+	color: #F5F8FA;
+	font-family: 'Lato', sans-serif;
+	left: 0;
+	padding: 2vh 0;
+	position: fixed;
+	right: 0;
+	text-align: center;
+}
+
+.de-header {
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+
+.de-header nav {
+	background-color: #292F33;
+	font-family: 'Lato', sans-serif;
+}
+
+.de-hero {
+	background-color: #252A2E;
+	color: #F5F8FA;
+	font-family: 'Lato', sans-serif;
+	height: 100vh;
+	margin-bottom: 0;
+	padding: 35vh 25vw;
+	text-align: center;
+}
+
+.de-hero h1 {
+	font-family: 'Darker Grotesque', sans-serif;
+}
+
+.de-hero hr {
+	border-color: #F5F8FA;
+}
