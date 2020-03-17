@@ -4,6 +4,8 @@
 
 <h2 align="center">Website</h2>
 
+[![CodeFactor](https://www.codefactor.io/repository/github/teamdarkeyes/website/badge)](https://www.codefactor.io/repository/github/teamdarkeyes/website)
+
 </div>
 
 ## Overview
